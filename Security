@@ -1,9 +1,11 @@
 {
     "filename": "PakTzy.js",
     "access": [
+// Nomor Owner
         "62895340737549",
         ""
     ],
+// Nomor Bot
     "access_bot": [
         "",
         "6283842706967"
